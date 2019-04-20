@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-		    Hello ClarkY API / MiddleWare
+		    Hello ClarkYzAm API / MiddleWare
               	</div>
 
                 <div class="links">
